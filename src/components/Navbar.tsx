@@ -56,34 +56,10 @@ export default function Navbar() {
       {isOpen && (
         <div className="md:hidden bg-green-700 text-white px-4 pt-4 pb-4 space-y-2 transition-all duration-300">
           <a
-            href="/"
-            className="block hover:text-gray-200 px-3 py-2 rounded-md"
-          >
-            Accueil
-          </a>
-          <a
-            href="/about"
-            className="block hover:text-gray-200 px-3 py-2 rounded-md"
-          >
-            À propos
-          </a>
-          <a
-            href="/articles"
-            className="block hover:text-gray-200 px-3 py-2 rounded-md"
-          >
-            Articles
-          </a>
-          <a
             href="/bag"
             className="block hover:text-gray-200 px-3 py-2 rounded-md"
           >
             Mon sac
-          </a>
-          <a
-            href="/contact"
-            className="block hover:text-gray-200 px-3 py-2 rounded-md"
-          >
-            Contact
           </a>
         </div>
       )}
