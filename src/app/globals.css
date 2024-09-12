@@ -25,3 +25,23 @@ body {
     text-wrap: balance;
   }
 }
+
+.bg-category-clothes {
+  background-color: #e6f7e9; /* Vert clair */
+  border-color: #4caf50; /* Vert */
+}
+
+.bg-category-food {
+  background-color: #ffe6cc; /* Orange clair */
+  border-color: #ff9800; /* Orange */
+}
+
+.bg-category-equipment {
+  background-color: #e6f3ff; /* Bleu clair */
+  border-color: #2196f3; /* Bleu */
+}
+
+.bg-category-other {
+  background-color: #fff4cc; /* Jaune clair */
+  border-color: #ffc107; /* Jaune */
+}
