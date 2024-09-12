@@ -1,3 +1,35 @@
+# Manage Stuff
+
+## Description
+
+**Manage Stuff** is a web application built to help hikers and outdoor enthusiasts efficiently organize and manage their backpacks for hikes and treks. Users can add items, categorize them, and track their total weight, allowing them to optimize their backpack's load for better balance and comfort.
+
+## Features
+
+- **Add and Manage Items**: Easily add essential items to your backpack with quantity, weight, and category options (e.g., clothing, food, equipment).
+- **Weight Visualization**: Get a clear breakdown of weight distribution by category with a dynamic pie chart, allowing you to adjust your load for better balance.
+- **Responsive Design**: The app is designed to be fully responsive, offering an optimal experience on mobile, tablet, and desktop.
+- **Local Storage**: Your backpack data is saved directly to your browser’s local storage, ensuring you don't lose your list when you close the app.
+
+## Tech Stack
+
+- **Next.js**: Server-side rendering and static site generation framework.
+- **React.js**: For building the UI components and managing state.
+- **Tailwind CSS**: A utility-first CSS framework for rapid and modern UI styling.
+- **Chart.js**: A JavaScript charting library for data visualization (pie chart).
+- **Local Storage**: Data is stored locally to persist between sessions without a backend.
+
+## Installation
+
+To get the project running locally, follow these steps:
+
+1. **Clone the repository**:
+
+   ```bash
+   git clone https://github.com/your-username/manage-stuff.git
+   cd manage-stuff
+   ```
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
