@@ -7,7 +7,7 @@ export default function Home() {
       {/* Section 1: Image de couverture avec phrase accrocheuse */}
       <div
         className="relative h-[85vh] bg-cover bg-center"
-        style={{ backgroundImage: "url(/images/home.JPG)" }}
+        style={{ backgroundImage: "url(/images/home.webp)" }}
       >
         <div className="absolute inset-0 bg-gradient-to-t from-gray-900 to-transparent flex flex-col items-center justify-center">
           <h1 className="text-white text-6xl font-bold text-center mb-4 drop-shadow-lg">

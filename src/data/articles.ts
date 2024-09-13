@@ -13,7 +13,7 @@ export const articles: Article[] = [
     title: "Choisir le bon litrage de sac",
     description:
       "Le litrage dépend de la durée et du type de trek. Optez pour un sac entre 30 et 70 litres en fonction de vos besoins en autonomie.",
-    image: "/images/backpack-size.jpg",
+    image: "/images/backpack-size.webp",
     link: "/article/choisir-bon-litrage-sac",
     content: `
       <h2 class="text-2xl font-bold text-green-700 mb-4">Pourquoi le choix du litrage est crucial ?</h2>
@@ -38,7 +38,7 @@ export const articles: Article[] = [
     title: "Ajuster correctement le sac",
     description:
       "Un bon ajustement est crucial. Veillez à régler la ceinture abdominale et les bretelles pour répartir le poids sur le bassin.",
-    image: "/images/backpack-adjustment.jpg",
+    image: "/images/backpack-adjustment.webp",
     link: "/article/ajuster-correctement-sac",
     content: `
       <h2 class="text-2xl font-bold text-green-700 mb-4">Pourquoi un bon ajustement est essentiel ?</h2>
@@ -61,7 +61,7 @@ export const articles: Article[] = [
     title: "Optimiser le remplissage",
     description:
       "Placez les objets lourds près du dos et gardez les accessoires fréquemment utilisés dans des poches accessibles.",
-    image: "/images/backpack-packing.jpg",
+    image: "/images/backpack-packing.webp",
     link: "/article/optimiser-remplissage-sac",
     content: `
       <h2 class="text-2xl font-bold text-green-700 mb-4">Pourquoi l'optimisation du remplissage est cruciale ?</h2>
@@ -83,7 +83,7 @@ export const articles: Article[] = [
     title: "Ne rien oublier !",
     description:
       "Consultez notre check-list complète pour ne rien oublier avant votre départ, des vêtements au matériel indispensable.",
-    image: "/images/backpack-checklist.jpg",
+    image: "/images/backpack-checklist.webp",
     link: "/article/ne-rien-oublier-checklist",
     content: `
       <h2 class="text-2xl font-bold text-green-700 mb-4">Check-list avant de partir en trek</h2>
@@ -103,7 +103,7 @@ export const articles: Article[] = [
     title: "Tentes ultra-légères pour bivouac",
     description:
       "Explorez notre sélection des meilleures tentes ultra-légères pour les trekkings en autonomie, parfaites pour un bivouac confortable.",
-    image: "/images/lightweight-tents.jpg",
+    image: "/images/lightweight-tents.webp",
     link: "/article/tentes-ultralegeres-bivouac",
     content: `
       <h2 class="text-2xl font-bold text-green-700 mb-4">Pourquoi choisir une tente ultra-légère ?</h2>
