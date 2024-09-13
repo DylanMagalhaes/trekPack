@@ -2,11 +2,12 @@
 import { useEffect } from "react";
 import AddItemForm from "../../components/AddItemForm";
 import BackpackTable from "../../components/BackpackTable";
-import BackpackCardList from "../../components/BackpackCardList/BackpackCardList";
+import BackpackCardList from "../../components/BackpackCardList";
 import useBackpackViewModel from "../../viewmodel/useBackpackViewModel";
 import PieChart from "../../components/PieChart";
 import Image from "next/image";
 import backpackImage from "/public/images/backpack-stuff.webp";
+import WeatherForecast from "@/components/WeatherForecast";
 
 export default function ManageBackpack() {
   const {
@@ -79,6 +80,8 @@ export default function ManageBackpack() {
           surcharge inutile.
         </p>
       </div>
+
+      <WeatherForecast />
 
       {/* Add Item Form */}
       <div className="bg-white p-6 shadow-lg rounded-lg mb-10">
