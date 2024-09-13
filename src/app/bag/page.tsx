@@ -85,7 +85,7 @@ export default function ManageBackpack() {
 
       {/* Add Item Form */}
       <div className="bg-white p-6 shadow-lg rounded-lg mb-10">
-        <h2 className="text-2xl font-semibold text-gray-700 text-center mb-4">
+        <h2 className="text-2xl font-semibold text-green-800 text-center mb-4">
           Ajouter un Article
         </h2>
         <p className="text-center text-gray-500 mb-6">
