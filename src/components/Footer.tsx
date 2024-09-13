@@ -8,7 +8,7 @@ export default function Footer() {
             <h2 className="text-2xl font-bold mb-4">TrekPack</h2>
             <p className="text-gray-400">
               Le site pour vous aider à gérer efficacement vos équipements et à
-              préparer vos aventures.
+              préparer vos aventures...
             </p>
           </div>
         </div>
